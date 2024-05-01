@@ -75,7 +75,7 @@ def setup_canvas_courses(data):
     for classes in data["Canvas-IDs"]:
         all_classes.append(classes)
     return all_classes
-data = setup('testtodoist.json')
+data = setup('todoist.json')
 api = TodoistAPI(data["Api-Tokens"]["Todoist"])
 canvasapiwebsite = data["Api-Tokens"]["Canvas-Link"]
 canvasapitoken = data["Api-Tokens"]["Canvas"]
