@@ -1,0 +1,22 @@
+{
+    "Api-Tokens": {
+        "Todoist": "Todoist API link",
+        "Canvas": "Canvas API link",
+        "Canvas-Link": "link to your schools canvas ex: https://purdue.instructure.net"
+    },
+    "Canvas-IDs": {
+        "Class #1": 1234,
+        "Class #2": 5678,
+        "Class #3": 2468,
+        "Class #4": 1357
+    },
+    "Todoist-Project": {
+        "Main-Project": 2301917360
+    },
+    "Todoist-IDs": {
+        "Class #1": 987654321,
+        "Class #2": 135791357,
+        "Class #3": 246802468,
+        "Class #4": 123456789
+    }
+}
