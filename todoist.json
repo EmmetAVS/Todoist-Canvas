@@ -1,7 +1,7 @@
 {
     "Api-Tokens": {
-        "Todoist": "Todoist API link",
-        "Canvas": "Canvas API link",
+        "Todoist": "Todoist API key",
+        "Canvas": "Canvas API key",
         "Canvas-Link": "link to your schools canvas ex: https://purdue.instructure.net"
     },
     "Canvas-IDs": {
